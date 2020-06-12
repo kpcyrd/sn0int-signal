@@ -1,7 +1,11 @@
 [package]
 name = "sn0int-signal"
 version = "0.1.0"
-authors = ["user"]
+description = "signal webhook server for sn0int"
+authors = ["kpcyrd <git@rxv.cc>"]
+license = "GPL-3.0"
+repository = "https://github.com/kpcyrd/sn0int-signal"
+readme = "README.md"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
