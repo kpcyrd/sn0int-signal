@@ -12,7 +12,9 @@ installed, setup, and in your path!
 
 Afterwards install the http api like this:
 
-    cargo install sn0int-signal
+    git clone 'https://github.com/kpcyrd/sn0int-signal'
+    cd sn0int-signal
+    cargo install --path .
 
 ## Usage
 
